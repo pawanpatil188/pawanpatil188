@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm pawan from RCPIT<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm pawan from RCPIT<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning...<br>-
 
 ###
 
